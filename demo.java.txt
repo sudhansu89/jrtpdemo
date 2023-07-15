@@ -1,5 +1,5 @@
 class boy{
      public static void main Stringh[]args(){
-System.out.println("hello sp")
+System.out.println("hello sp");
 }
 }
