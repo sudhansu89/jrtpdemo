@@ -3,7 +3,14 @@ class boy{
 Private int x=10;
 System.out.println("hello sp");
 }
+<<<<<<< Updated upstream
 void m2(){
 System.out.println("bug no 102")
 }
+=======
+void m1(){
+System.out.println("bug no 101")
+}
+
+>>>>>>> Stashed changes
 }
