@@ -3,4 +3,7 @@ class boy{
 Private int x=10;
 System.out.println("hello sp");
 }
+void m2(){
+System.out.println("bug no 102")
+}
 }
