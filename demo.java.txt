@@ -1,5 +1,9 @@
 class boy{
+
 private int  x=20;
+
+Static int a=10;
+
      public static void main Stringh[]args(){
 Private int x=10;
 System.out.println("hello sp");
